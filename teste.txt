@@ -1,3 +1,1 @@
-Arquivo de teste
-Gerado para validar conexão com GitHub via SSH
-Data: 2025-12-05
+Confirmei que essa primeira versao do arquivo está funcionando perfeitamente para subir no git hub, testarei o contrario agora e vou comecar o código
