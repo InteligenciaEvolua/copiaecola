@@ -1,0 +1,3 @@
+Arquivo de teste
+Gerado para validar conexão com GitHub via SSH
+Data: 2025-12-05
